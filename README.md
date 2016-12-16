@@ -1,6 +1,6 @@
-# Angular_Players-Teams
+# Angular - Players/Teams
 
-The following Angular App contains 3 partial pages:
+The following Angular App contains 3 partials:
 
 players.html
 angularController: PlayersController
