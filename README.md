@@ -11,3 +11,6 @@ a) teamFactory
 associations.html
 angularController: AssociationsController
 a) teamFactory, playerFactory
+
+
+These partials create a database of players assocaited with teams.
