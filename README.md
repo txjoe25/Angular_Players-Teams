@@ -1,13 +1,15 @@
 # Angular - Players/Teams
 
-The following Angular App contains 3 partials:
+The following Angular App contains 3 partials(players.html, teams.html, associations.html):
 
 players.html
 angularController: PlayersController
 a) playerFactory
+
 teams.html
 angularController: TeamsController
 a) teamFactory
+
 associations.html
 angularController: AssociationsController
 a) teamFactory, playerFactory
